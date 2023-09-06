@@ -1,0 +1,48 @@
+%BECauSE corpus examples
+%Causal:
+
+1. MASC/20020731-nyt.txt, line 15: “Your actions and failure to act led to violations of
+Senate rules (and related statutes) and created at least the appearance of
+impropriety," the three Democrats and three Republicans on the committee said in a
+three-page letter to Torricelli
+
+2. MASC/20020731-nyt.txt, line 247. With the barrage of crack cocaine-connected
+
+killings in the 1980s came the realization that young people were too often full-
+fledged players in the violence.
+
+3. MASC/20020731-nyt.txt, line 525: The court, vacating Nelson's death sentence for
+the second time, ruled on two grounds: that the jury could have been confused by
+instructions on the verdict sheet and that the prosecutor made improper accusations
+in his closing argument.
+
+4. MASC/20020731-nyt.txt, line 613: The verdict should be annulled, not just on
+humanitarian grounds but because his prosecution is an abrogation of the most basic
+standards of justice.
+
+5. MASC/20020731-nyt.txt, line 660: Responding to a wave of public dismay over the
+first designs for rebuilding Lower Manhattan, Gov. George Pataki has sent word that
+it's time to go back to the drawing board.
+
+%Non-causal:
+
+6. MASC/20020731-nyt.txt, line 133: In meetings on Tuesday in Malaysia and Singapore
+before touching down in this oil-producing sultanate for two days of talks with
+members of the Association of South East Asian Nations, Powell said he repeatedly
+raised the issue.
+
+7. MASC/20020731-nyt.txt, line 323: The anonymous buyer, believed to be an individual
+collector who lives in the United States, made the winning bid in a fiercely contested
+nine-minute auction at Sotheby's in Manhattan.
+
+8. MASC/20020731-nyt.txt, line 444: The committee understands that you have
+previously delivered the bronze statues to the Department of Justice, from whence
+they should be returned to Chang.
+
+9. MASC/20020731-nyt.txt, line 453: This 30-second commercial is the first in H. Carl
+McCall's campaign for the Democratic nomination for governor and will be broadcast
+upstate in major broadcast markets, and on cable in New York City, starting today.
+
+10. MASC/20020731-nyt.txt, line 742: Among these are rules governing emissions that
+limit visibility in the national parks, and rules governing pollution that drifts eastward
+from Midwestern power plants.

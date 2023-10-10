@@ -1,7 +1,7 @@
 Lassiter:
 Causal verbs; break, kill, shatter, redden, open, support,
 Analytic causative verbs; cause, enable, prevent, let, make, have, get,…
-
+(I believe this is inspired by; "A Semantics for Causing, Enabling, and Preventing Verbs Using Structural Causal Models" by Cao, Geiger, Kreiss, Icard, and Gerstenberg)
 
 Proposed ‘recipe’ for a causal sentence;
 (Analytic) causal verb connects an action to an effect.

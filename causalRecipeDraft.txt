@@ -7,7 +7,7 @@ Proposed ‘recipe’ for a causal sentence;
 (Analytic) causal verb connects an action to an effect.
 
 Examples:
-Bill closed the door.
+Rain clouds cause rain.
 Going to the park made the dog happy.
 The lit match was the cause of the fire.
 Allen got an A because he studied all night.

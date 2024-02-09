@@ -1,0 +1,1187 @@
+Sentence: This bill seeks to make regulation more efficient.
+Cause: bill
+Trigger: makes
+Effect: regulation more efficient.
+Machine Generation: 
+1. This campaign aims to increase awareness about climate change.
+Cause: campaign
+Trigger: aims to
+Effect: increase awareness about climate change.
+
+2. The new educational program aims to improve student performance.
+Cause: educational program
+Trigger: aims to
+Effect: improve student performance.
+
+3. The company's investment in new technology aims to streamline operations.
+Cause: company's investment in new technology
+Trigger: aims to
+Effect: streamline operations.
+
+4. The research study aims to find a cure for a rare disease.
+Cause: research study
+Trigger: aims to
+Effect: find a cure for a rare disease.
+
+5. The government's initiative aims to reduce unemployment rates.
+Cause: government's initiative
+Trigger: aims to
+Effect: reduce unemployment rates.
+-------------------------------------------------
+
+Sentence: Their background made for a rocky relationship.
+Cause: background
+Trigger: makes
+Effect: rocky relationship
+Machine Generation: 
+1. Her constant criticism led to a strained friendship.
+   Cause: constant criticism
+   Trigger: led to
+   Effect: strained friendship
+
+2. The lack of trust resulted in a failed business partnership.
+   Cause: lack of trust
+   Trigger: resulted in
+   Effect: failed business partnership
+
+3. His frequent absences caused his grades to plummet.
+   Cause: frequent absences
+   Trigger: caused
+   Effect: grades to plummet
+
+4. The constant arguing within the family led to a deteriorating mental health for the children.
+   Cause: constant arguing within the family
+   Trigger: led to
+   Effect: deteriorating mental health for the children
+
+5. The lack of communication in the relationship led to decreased intimacy.
+   Cause: lack of communication
+   Trigger: led to
+   Effect: decreased intimacy
+-------------------------------------------------
+
+Sentence: The presence of my father gave some peace of mind.
+Cause: presence of father
+Trigger: gives
+Effect: peace of mind
+Machine Generation: 
+1. The smell of lavender induced a sense of calmness.
+Cause: smell of lavender
+Trigger: induced
+Effect: sense of calmness
+
+2. Eating a chocolate bar triggered a surge of happiness.
+Cause: eating a chocolate bar
+Trigger: triggered
+Effect: surge of happiness
+
+3. Exercising regularly contributed to improved physical health.
+Cause: exercising regularly
+Trigger: contributed to
+Effect: improved physical health
+
+4. Receiving compliments from colleagues boosted her self-confidence.
+Cause: receiving compliments from colleagues
+Trigger: boosted
+Effect: self-confidence
+
+5. Listening to classical music enhanced concentration and focus.
+Cause: listening to classical music
+Trigger: enhanced
+Effect: concentration and focus
+-------------------------------------------------
+
+Sentence: Given that you can't make it, we'll have to postpone.
+Cause: you can't make it
+Trigger: ?
+Effect: postpone it
+Machine Generation: 
+1. Since the rainstorm flooded the roads, the outdoor concert was canceled.
+Cause: the rainstorm flooded the roads
+Effect: the outdoor concert was canceled
+
+2. Due to insufficient funding, the construction project will be delayed indefinitely.
+Cause: insufficient funding
+Effect: the construction project will be delayed indefinitely
+
+3. As a result of the power outage, the hotel guests were unable to use the elevators.
+Cause: the power outage
+Effect: the hotel guests were unable to use the elevators
+
+4. Because of the traffic accident, the bus was rerouted to avoid the congested roads.
+Cause: the traffic accident
+Effect: the bus was rerouted to avoid the congested roads
+
+5. Given the high demand for tickets, additional showtimes were added to accommodate more attendees.
+Cause: the high demand for tickets
+Effect: additional showtimes were added to accommodate more attendees
+-------------------------------------------------
+
+Sentence: Something that simple causes problems in subprime.
+Cause: simple thing
+Trigger: causes
+Effect: problems in subprime
+Machine Generation: 
+1. The lack of communication leads to misunderstandings within teams.
+Cause: lack of communication
+Trigger: leads to
+Effect: misunderstandings within teams
+
+2. Excessive use of social media results in decreased productivity.
+Cause: excessive use of social media
+Trigger: results in
+Effect: decreased productivity
+
+3. Insufficient exercise leads to a decline in physical fitness.
+Cause: insufficient exercise
+Trigger: leads to
+Effect: decline in physical fitness
+
+4. Irregular sleep patterns contribute to increased stress levels.
+Cause: irregular sleep patterns
+Trigger: contribute to
+Effect: increased stress levels
+
+5. Poor time management leads to missed deadlines.
+Cause: poor time management
+Trigger: leads to
+Effect: missed deadlines
+-------------------------------------------------
+
+Sentence: Nearly every session since November has been adjourned because as few as 65 members made it to work.
+Cause: few members present
+Trigger: causes
+Effect: session adjourned
+Machine Generation: 
+1. The party was canceled because heavy rain caused flooding in the venue.
+Cause: heavy rain and flooding
+Trigger: caused
+Effect: party canceled
+
+2. The project deadline was extended because key team members fell ill and couldn't complete their tasks.
+Cause: team members falling ill
+Trigger: led to
+Effect: project deadline extended
+
+3. The car broke down because it ran out of fuel on a deserted road.
+Cause: running out of fuel
+Trigger: resulted in
+Effect: car broke down
+
+4. The store had to close early because a power outage occurred in the area.
+Cause: power outage
+Trigger: led to
+Effect: store closing early
+
+5. The meeting was postponed because the presenter lost their voice and couldn't deliver the presentation.
+Cause: presenter losing voice
+Trigger: caused
+Effect: meeting postponed
+-------------------------------------------------
+
+Sentence: Transparency is essential to a fair judicial system.
+Cause: transparency
+Trigger: essential to
+Effect: fair judicial system
+Machine Generation: 
+1. Access to education is crucial for individual empowerment.
+Cause: access to education
+Trigger: crucial for
+Effect: individual empowerment
+
+2. Effective communication is vital for building strong relationships.
+Cause: effective communication
+Trigger: vital for
+Effect: building strong relationships
+
+3. Adequate nutrition is necessary for physical health.
+Cause: adequate nutrition
+Trigger: necessary for
+Effect: physical health
+
+4. Innovation is key to economic growth and development.
+Cause: innovation
+Trigger: key to
+Effect: economic growth and development
+
+5. Trust is fundamental to the success of any team.
+Cause: trust
+Trigger: fundamental to
+Effect: success of any team
+-------------------------------------------------
+
+Sentence: Having looked at the older document, the faculty believed that a middle ground might be appropriate.
+Cause: looking at doc
+Trigger: nan
+Effect: believe X
+Machine Generation: 
+1. After witnessing the alarming statistics, the government decided to implement stricter measures to address the issue.
+Cause: witnessing statistics
+Effect: decide to implement stricter measures
+
+2. With the continuous rainfall, the plants flourished and bloomed beautifully.
+Cause: continuous rainfall
+Effect: plants flourished and bloomed beautifully
+
+3. Upon receiving positive feedback from the audience, the singer gained confidence and delivered a mesmerizing performance.
+Cause: receiving positive feedback
+Effect: gain confidence and deliver a mesmerizing performance
+
+4. Due to the lack of exercise, the individual experienced weight gain and decreased stamina.
+Cause: lack of exercise
+Effect: experience weight gain and decreased stamina
+
+5. By following a disciplined study routine, the students attained higher grades and improved their academic performance.
+Cause: following a disciplined study routine
+Effect: attain higher grades and improve academic performance
+-------------------------------------------------
+
+Sentence: We'll need a collaborative effort if we are to have a successful outcome.
+Cause: collaborative effort
+Trigger: nan
+Effect: successful outcome
+Machine Generation: 
+1. Effective planning and execution will result in a smooth project completion.
+   Cause: Effective planning and execution
+   Effect: Smooth project completion
+   
+2. Regular exercise and a balanced diet lead to improved overall health.
+   Cause: Regular exercise and a balanced diet
+   Effect: Improved overall health
+   
+3. Timely repairs and maintenance ensure durability and longevity of the machinery.
+   Cause: Timely repairs and maintenance
+   Effect: Durability and longevity of the machinery
+   
+4. Adequate study habits and preparation are essential for academic success.
+   Cause: Adequate study habits and preparation
+   Effect: Academic success
+   
+5. Clear communication and active listening foster stronger relationships.
+   Cause: Clear communication and active listening
+   Effect: Stronger relationships
+-------------------------------------------------
+
+Sentence: His behavior drove me to drink heavily.
+Cause: behavior
+Trigger: nan
+Effect: heavy drinking
+Machine Generation: 
+1. Her criticism led to his loss of confidence.
+Cause: criticism
+Effect: loss of confidence
+
+2. The stressful work environment resulted in his increased anxiety levels.
+Cause: stressful work environment
+Effect: increased anxiety levels
+
+3. Their constant fighting caused him to develop a fear of commitment.
+Cause: constant fighting
+Effect: fear of commitment
+
+4. The lack of support from his family contributed to his low self-esteem.
+Cause: lack of support from family
+Effect: low self-esteem
+
+5. The failure of his business venture led to his financial hardships.
+Cause: failure of business venture
+Effect: financial hardships
+-------------------------------------------------
+
+Sentence: These harsh enforcement provisions will undoubtedly generate abuses and mistreatment.
+Cause: provisions
+Trigger: nan
+Effect: abuses
+Machine Generation: 
+1. Cause: Restrictions on social media
+   Effect: Limited freedom of speech
+
+2. Cause: Heavy rain
+   Effect: Flooding in low-lying areas
+
+3. Cause: Inadequate funding for education
+   Effect: Decline in academic performance
+
+4. Cause: Toxic pollutants in the air
+   Effect: Increased respiratory illnesses
+
+5. Cause: Intense competition in the job market
+   Effect: Rising rates of unemployment
+-------------------------------------------------
+
+Sentence: My reason for leaving now is that I want to get home on time.
+Cause: I want to get home on time
+Trigger: reason for
+Effect: leaving now
+Machine Generation: 
+1. Since the restaurant was closing soon, I decided to order dessert quickly.
+Cause: The restaurant was closing soon
+Effect: I decided to order dessert quickly
+
+2. The heavy rain prompted me to bring an umbrella.
+Cause: The heavy rain
+Effect: I brought an umbrella
+
+3. Because the movie was starting in ten minutes, I rushed to find my seat.
+Cause: The movie was starting in ten minutes
+Effect: I rushed to find my seat
+
+4. The loud noise outside made me close the window.
+Cause: The loud noise outside
+Effect: I closed the window
+
+5. As I was running late for work, I skipped breakfast to save time.
+Cause: I was running late for work
+Effect: I skipped breakfast
+-------------------------------------------------
+
+Sentence: Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.
+Cause: Perfect, hard work, learning from failure, loyalty, and persistence
+Trigger: nan
+Effect: success
+Machine Generation: 
+1. Passion, determination, resilience, and innovation lead to groundbreaking achievements.
+2. Dedication, discipline, adaptability, and collaboration result in significant growth and progress.
+3. Creativity, curiosity, knowledge, and risk-taking bring about extraordinary breakthroughs.
+4. Empathy, communication, teamwork, and problem-solving skills contribute to successful collaborations.
+5. Ambition, preparation, versatility, and timely opportunities pave the way for remarkable accomplishments.
+-------------------------------------------------
+
+Sentence: For that reason, I look forward to hearing from today's witnesses.
+Cause: that reason
+Trigger: nan
+Effect: I look forward to today's witnesses
+Machine Generation: 
+1. Whenever it rains, I enjoy staying indoors and reading a good book.
+Cause: rain
+Effect: I enjoy staying indoors and reading a good book
+
+2. Since I had a long day at work, I treat myself to a relaxing bubble bath in the evening.
+Cause: long day at work
+Effect: I treat myself to a relaxing bubble bath in the evening
+
+3. When I practice playing the piano daily, I notice gradual improvements in my musical skills.
+Cause: daily piano practice
+Effect: I notice gradual improvements in my musical skills
+
+4. Because I exercised regularly, I experienced an increase in energy levels throughout the day.
+Cause: regular exercise
+Effect: I experienced an increase in energy levels throughout the day
+
+5. Whenever I spend quality time with my loved ones, my mood instantly improves.
+Cause: spending quality time with loved ones
+Effect: my mood instantly improves
+-------------------------------------------------
+
+Sentence: The speaker of Parliament read a roll call of the 275 elected members with a goal of shaming the no-shows.
+Cause: shaming no-shows
+Trigger: with a goal
+Effect: a roll call of the 275 elected memebers
+Machine Generation: 
+1. Cause: Utilizing strict enforcement policies
+   Trigger: in order to ensure compliance
+   Effect: Implemented regular spot checks to monitor employee performance.
+
+2. Cause: Implementing harsh penalties
+   Trigger: as a deterrent
+   Effect: Resulted in a significant decrease in traffic violations.
+
+3. Cause: Offering attractive incentives
+   Trigger: in order to motivate employees
+   Effect: Achieved a higher level of productivity and job satisfaction among the workforce.
+
+4. Cause: Adopting eco-friendly practices
+   Trigger: with the aim of reducing carbon footprint
+   Effect: Initiated a decrease in greenhouse gas emissions and overall environmental impact.
+
+5. Cause: Launching educational campaigns
+   Trigger: with the intention of raising awareness
+   Effect: Led to an increase in public knowledge and understanding of the issue.
+-------------------------------------------------
+
+Sentence: The speaker of Parliament read a roll call of the 275 elected members with the objective of shaming the no-shows.
+Cause: shaming no-shows
+Trigger: with the objective
+Effect: a roll call of the 275 elected memebers
+Machine Generation: 
+1. The teacher scolded the late students in front of the class to discourage tardiness.
+Cause: discouraging tardiness
+Trigger: in front of the class
+Effect: the teacher scolding the late students
+
+2. The coach enforced mandatory practice sessions to improve the team's performance.
+Cause: improving performance
+Trigger: enforced
+Effect: mandatory practice sessions
+
+3. The police officer issued tickets to drivers exceeding the speed limit, aiming to promote road safety.
+Cause: promoting road safety
+Trigger: aiming to
+Effect: the police officer issuing tickets to speeding drivers
+
+4. The manager organized team-building activities to foster better communication and collaboration among employees.
+Cause: fostering better communication and collaboration
+Trigger: organized
+Effect: team-building activities
+
+5. The doctor prescribed medication to alleviate the patient's pain and discomfort.
+Cause: alleviating pain and discomfort
+Trigger: prescribed
+Effect: medication
+-------------------------------------------------
+
+Sentence: As the power increased, the rotor spun faster.
+Cause: power increased
+Trigger: nan
+Effect: rotor spun faster
+Machine Generation: 
+1. Trigger: The temperature dropped.
+   Cause: Temperature dropped
+   Effect: The plants withered.
+
+2. Trigger: The wind gusts intensified.
+   Cause: Wind gusts intensified
+   Effect: The waves crashed against the rocks with more force.
+
+3. Trigger: The demand for housing surged.
+   Cause: Demand for housing surged
+   Effect: Property prices skyrocketed in the city.
+
+4. Trigger: The rockslide occurred.
+   Cause: Rockslide occurred
+   Effect: Traffic came to a standstill on the mountain road.
+
+5. Trigger: The rainfall diminished.
+   Cause: Rainfall diminished
+   Effect: The river's water level declined significantly.
+-------------------------------------------------
+
+Sentence: The news compelled him to act.
+Cause: the news
+Trigger: compelled
+Effect: him to act
+Machine Generation: 
+1. Her persistence convinced them to change their decision.
+Cause: her persistence
+Trigger: convinced
+Effect: them to change their decision
+
+2. The storm forced them to seek shelter.
+Cause: the storm
+Trigger: forced
+Effect: them to seek shelter
+
+3. The teacher's praise motivated the student to study harder.
+Cause: the teacher's praise
+Trigger: motivated
+Effect: the student to study harder
+
+4. The accident prompted him to reevaluate his driving habits.
+Cause: the accident
+Trigger: prompted
+Effect: him to reevaluate his driving habits
+
+5. The documentary inspired her to pursue a career in conservation.
+Cause: the documentary
+Trigger: inspired
+Effect: her to pursue a career in conservation
+-------------------------------------------------
+
+Sentence: Her financial problems obliged her to get another job.
+Cause: financial problems
+Trigger: obliged
+Effect: get another job
+Machine Generation: 
+1. The car accident led him to undergo intensive rehabilitation.
+Cause: car accident
+Trigger: led
+Effect: undergo intensive rehabilitation
+
+2. His lack of sleep resulted in decreased productivity at work.
+Cause: lack of sleep
+Trigger: resulted in
+Effect: decreased productivity at work
+
+3. The teacher's praise motivated the students to study harder for the exam.
+Cause: teacher's praise
+Trigger: motivated
+Effect: study harder for the exam
+
+4. The constant rainfall caused the river to overflow its banks.
+Cause: constant rainfall
+Trigger: caused
+Effect: river overflowed its banks
+
+5. The unexpected promotion inspired him to set higher career goals.
+Cause: unexpected promotion
+Trigger: inspired
+Effect: set higher career goals
+-------------------------------------------------
+
+Sentence: In response to heavy criticism, the CDC rescinded its recommendations.
+Cause: heavy criticism
+Trigger: in response
+Effect: CDC rescinded its recommendations
+Machine Generation: 
+1. After conducting a thorough investigation, the company terminated the employee involved in the fraud.
+Cause: conducting a thorough investigation
+Effect: company terminated the employee involved in the fraud
+
+2. Due to a decrease in sales, the restaurant decided to reduce its menu options.
+Cause: decrease in sales
+Effect: restaurant decided to reduce its menu options
+
+3. Upon receiving positive feedback from customers, the company expanded its product line.
+Cause: receiving positive feedback from customers
+Effect: company expanded its product line
+
+4. Following the discovery of a security breach, the organization strengthened its cybersecurity measures.
+Cause: discovery of a security breach
+Effect: organization strengthened its cybersecurity measures
+
+5. As a result of winning multiple awards, the actor's popularity skyrocketed.
+Cause: winning multiple awards
+Effect: actor's popularity skyrocketed
+-------------------------------------------------
+
+Sentence: The debate has sharpened in the face of concerns about the safety of formaldehyde-treated flooring.
+Cause: concerns about the safety of formaldehyde-treated flooring
+Trigger: in the face of
+Effect: the debate has sharpened
+Machine Generation: 
+1. The number of traffic accidents has increased due to the rise in distracted driving incidents.
+Cause: the rise in distracted driving incidents
+Trigger: due to
+Effect: the number of traffic accidents has increased
+
+2. Sales of electric cars have surged following growing awareness about environmental conservation.
+Cause: growing awareness about environmental conservation
+Trigger: following
+Effect: sales of electric cars have surged
+
+3. Crime rates have spiked as a result of socioeconomic disparities and limited access to education.
+Cause: socioeconomic disparities and limited access to education
+Trigger: as a result of
+Effect: crime rates have spiked
+
+4. The popularity of plant-based diets has soared due to heightened concerns over animal welfare.
+Cause: heightened concerns over animal welfare
+Trigger: due to
+Effect: the popularity of plant-based diets has soared
+
+5. The demand for renewable energy sources has intensified in response to escalating global warming issues.
+Cause: escalating global warming issues
+Trigger: in response to
+Effect: the demand for renewable energy sources has intensified
+-------------------------------------------------
+
+Sentence: In view of this new evidence, we would like to reconsider our decision.
+Cause: this new evidence
+Trigger: in the view of
+Effect: reconsider our decision
+Machine Generation: 
+1. Sentence: Due to the unexpected financial loss, we have decided to downsize our workforce.
+   Cause: the unexpected financial loss
+   Trigger: due to
+   Effect: downsize our workforce
+
+2. Sentence: With the increase in customer complaints, the company has decided to improve its product quality.
+   Cause: the increase in customer complaints
+   Trigger: with the increase in
+   Effect: improve its product quality
+
+3. Sentence: As a result of the extensive research findings, the government is considering implementing stricter environmental regulations.
+   Cause: the extensive research findings
+   Trigger: as a result of
+   Effect: considering implementing stricter environmental regulations
+
+4. Sentence: Owing to the favorable market conditions, the company has made the decision to expand into new markets.
+   Cause: the favorable market conditions
+   Trigger: owing to
+   Effect: made the decision to expand into new markets
+
+5. Sentence: With the rise in employee productivity, the management has decided to introduce performance-based bonuses.
+   Cause: the rise in employee productivity
+   Trigger: with the rise in
+   Effect: decided to introduce performance-based bonuses
+-------------------------------------------------
+
+Sentence: The fox leapt in an attempt to catch the mouse.
+Cause: catch the mouse
+Trigger: an attempt to
+Effect: the fox lept
+Machine Generation: 
+1. Sentence: The student studied hard to improve their grades.
+   Cause: improve their grades
+   Trigger: to
+   Effect: The student studied hard
+
+2. Sentence: The athlete trained rigorously to enhance their performance.
+   Cause: enhance their performance
+   Trigger: to
+   Effect: The athlete trained rigorously
+
+3. Sentence: The chef added spices to enhance the flavor of the dish.
+   Cause: enhance the flavor of the dish
+   Trigger: to
+   Effect: The chef added spices
+
+4. Sentence: The employees worked tirelessly to meet the project deadline.
+   Cause: meet the project deadline
+   Trigger: to
+   Effect: The employees worked tirelessly
+
+5. Sentence: The parents saved money to provide a better future for their children.
+   Cause: provide a better future for their children
+   Trigger: to
+   Effect: The parents saved money
+-------------------------------------------------
+
+Sentence: He kept his headphones on lest he disturb anyone.
+Cause: he disturb anyone
+Trigger: lest
+Effect: kept headphones on
+Machine Generation: 
+1. Cause: She turned off her phone.
+   Trigger: to avoid interruptions
+   Effect: remained focused on her work.
+
+2. Cause: The dog barked loudly.
+   Trigger: in order to alert its owner
+   Effect: the intruder was scared away.
+
+3. Cause: They studied hard.
+   Trigger: so that they could pass the exam
+   Effect: achieved high scores.
+
+4. Cause: The rain poured heavily.
+   Trigger: resulting in flooding
+   Effect: roads were blocked.
+
+5. Cause: He ate a lot of junk food.
+   Trigger: which led to an upset stomach
+   Effect: he felt sick all evening.
+-------------------------------------------------
+
+Sentence: I left early in the hopes of beating the traffic.
+Cause: the hopes of beating the traffic
+Trigger: in the hopes of
+Effect: left early
+Machine Generation: 
+1. Due to the fear of missing the train, I woke up at dawn.
+Cause: the fear of missing the train
+Effect: woke up at dawn
+
+2. In order to avoid the rain, she decided to take a different route.
+Cause: the desire to avoid the rain
+Effect: decided to take a different route
+
+3. Fearing a potential gas leak, they evacuated the building immediately.
+Cause: the fear of a gas leak
+Effect: evacuated the building immediately
+
+4. Hoping for a promotion, he worked overtime every day.
+Cause: the hope for a promotion
+Effect: worked overtime every day
+
+5. With the intention of impressing his date, he dressed up in a fancy suit.
+Cause: the intention of impressing his date
+Effect: dressed up in a fancy suit
+-------------------------------------------------
+
+Sentence: He tricked me into coming with.
+Cause: he tricked me
+Trigger: into
+Effect: coming with
+Machine Generation: 
+1. The thrilling advertisement convinced me to purchase the product.
+   Cause: the thrilling advertisement
+   Trigger: convinced me to
+   Effect: purchase the product
+
+2. The intense workout session motivated me to push harder.
+   Cause: the intense workout session
+   Trigger: motivated me to
+   Effect: push harder
+
+3. Her uplifting speech inspired me to chase my dreams.
+   Cause: her uplifting speech
+   Trigger: inspired me to
+   Effect: chase my dreams
+
+4. The tempting aroma of fresh coffee lured me into the café.
+   Cause: the tempting aroma of fresh coffee
+   Trigger: lured me into
+   Effect: the café
+
+5. His persuasive arguements convinced me to change my perspective.
+   Cause: his persuasive arguments
+   Trigger: convinced me to
+   Effect: change my perspective
+-------------------------------------------------
+
+Sentence: He died of a blocked artery.
+Cause: a blocked artery
+Trigger: of
+Effect: he died
+Machine Generation: 
+1. She failed the exam due to a lack of preparation.
+Cause: Lack of preparation
+Trigger: due to
+Effect: She failed the exam
+
+2. The car crashed because the driver was intoxicated.
+Cause: The driver being intoxicated
+Trigger: because
+Effect: The car crashed
+
+3. The tree fell down after being struck by lightning.
+Cause: Being struck by lightning
+Trigger: after
+Effect: The tree fell down
+
+4. The student improved his grades by studying consistently.
+Cause: Studying consistently
+Trigger: by
+Effect: The student improved his grades
+
+5. She lost her job when the company went bankrupt.
+Cause: Company going bankrupt
+Trigger: when
+Effect: She lost her job
+-------------------------------------------------
+
+Sentence: He fled out of fear for his life.
+Cause: fear for his life
+Trigger: of
+Effect: he fled
+Machine Generation: 
+1. Cause: The loud thunderstorm
+   Trigger: had
+   Effect: him huddling under the covers.
+   Sentence: He huddled under the covers because of the loud thunderstorm.
+
+2. Cause: The delicious aroma
+   Trigger: made
+   Effect: him salivate uncontrollably.
+   Sentence: He salivated uncontrollably because of the delicious aroma.
+
+3. Cause: Seeing the spider
+   Trigger: caused
+   Effect: him to jump on the nearest chair.
+   Sentence: He jumped on the nearest chair because he saw a spider.
+
+4. Cause: The unexpected news
+   Trigger: led to
+   Effect: him breaking down in tears.
+   Sentence: He broke down in tears because of the unexpected news.
+
+5. Cause: The scathing criticism
+   Trigger: resulted in
+   Effect: him losing all confidence.
+   Sentence: He lost all confidence because of the scathing criticism.
+-------------------------------------------------
+
+Sentence: Once we started seeing results, we began to relax.
+Cause: seeing the results
+Trigger: once
+Effect: we began to relax
+Machine Generation: 
+1. As soon as the music started playing, the crowd began to dance.
+Cause: the music playing
+Effect: the crowd dancing
+
+2. With every passing hour, the student's stress levels increased.
+Cause: passing hours
+Trigger: with every
+Effect: student's stress levels increasing
+
+3. Whenever she received a compliment, her confidence would soar.
+Cause: receiving a compliment
+Trigger: whenever
+Effect: her confidence soaring
+
+4. Upon smelling the freshly baked bread, their appetites were instantly awakened.
+Cause: smelling the freshly baked bread
+Trigger: upon
+Effect: their appetites being instantly awakened
+
+5. Every time he read a motivational quote, he felt inspired to take action.
+Cause: reading a motivational quote
+Trigger: every time
+Effect: feeling inspired to take action
+-------------------------------------------------
+
+Sentence: In the aftermath of the vote, the sense that the Union is fracturing cannot be ignored.
+Cause: the vote
+Trigger: in the aftermath of
+Effect: the sense that the Union is fracturing cannot be ignored
+Machine Generation: 
+1. Due to the economic downturn, many businesses are closing down and unemployment rates are skyrocketing.
+Cause: the economic downturn
+Effect: many businesses closing down and unemployment rates skyrocketing
+
+2. With the increase in pollution levels, there has been a significant decline in air quality, negatively impacting people's health.
+Cause: the increase in pollution levels
+Effect: a significant decline in air quality and negative impact on people's health
+
+3. As a result of the prolonged drought, agricultural yields have plummeted, causing food shortages and price hikes.
+Cause: the prolonged drought
+Effect: agricultural yields plummeting, food shortages, and price hikes
+
+4. After the announcement of new government policies, investors lost confidence in the market, resulting in a sharp decline in stock prices.
+Cause: the announcement of new government policies
+Effect: investors losing confidence in the market and a sharp decline in stock prices
+
+5. Following a major security breach, the company's reputation suffered greatly, leading to a significant loss of clients and revenue.
+Cause: the major security breach
+Effect: the company's reputation suffering, loss of clients, and revenue.
+-------------------------------------------------
+
+Sentence: In the wake of the storm, there were many broken tree limbs.
+Cause: the storm
+Trigger: in the wake of
+Effect: many broken tree limbs
+Machine Generation: 
+1. Following the intense workout, the athlete experienced muscle soreness.
+Cause: the intense workout
+Trigger: following
+Effect: muscle soreness 
+
+2. Due to the heavy rain, the streets were flooded.
+Cause: the heavy rain
+Trigger: due to
+Effect: flooded streets 
+
+3. As a result of the power outage, the entire neighborhood was left in darkness.
+Cause: the power outage
+Trigger: as a result of
+Effect: darkness in the neighborhood 
+
+4. Because of the increase in demand, prices for housing skyrocketed.
+Cause: the increase in demand
+Trigger: because of
+Effect: skyrocketing prices 
+
+5. After the car accident, there were several injured passengers.
+Cause: the car accident
+Trigger: after
+Effect: injured passengers.
+-------------------------------------------------
+
+Sentence: I jumped at the sound of the bell.
+Cause: the sound of the bell
+Trigger: at
+Effect: i jumped
+Machine Generation: 
+1. Cause: The sudden flash of lightning
+   Trigger: startled by
+   Effect: I screamed in fear.
+
+2. Cause: The pungent smell of burnt popcorn
+   Trigger: made me nauseous
+   Effect: I ran to the bathroom, feeling sick.
+
+3. Cause: The shocking news about his departure
+   Trigger: led me to
+   Effect: burst into tears uncontrollably.
+
+4. Cause: The sharp pain in my ankle
+   Trigger: forced me to
+   Effect: limp and seek medical attention.
+
+5. Cause: The unexpected sight of a large spider
+   Trigger: startled me into
+   Effect: leaping back and screaming at the top of my lungs.
+-------------------------------------------------
+
+Sentence: Following the storm, utility companies swept through looking for precarious tree limbs.
+Cause: the storm
+Trigger: following
+Effect: utility companies swept through looking for precarious tree limbs
+Machine Generation: 
+1. After the heavy rainfall, gardeners rushed to trim overgrown bushes and plants.
+Cause: heavy rainfall
+Trigger: after
+Effect: gardeners rushed to trim overgrown bushes and plants
+
+2. With the increase in cyberattacks, cybersecurity firms implemented stricter measures to protect sensitive data.
+Cause: increase in cyberattacks
+Trigger: with
+Effect: cybersecurity firms implemented stricter measures to protect sensitive data
+
+3. When the temperature dropped below freezing, homeowners scrambled to insulate pipes and prevent them from bursting.
+Cause: temperature dropping below freezing
+Trigger: when
+Effect: homeowners scrambled to insulate pipes and prevent them from bursting
+
+4. Due to the rise in car accidents, insurance companies raised their premiums to cover the increased risks.
+Cause: rise in car accidents
+Trigger: due to
+Effect: insurance companies raised their premiums to cover the increased risks
+
+5. Following the outbreak of a contagious disease, hospitals swiftly implemented strict infection control protocols to contain the spread.
+Cause: outbreak of a contagious disease
+Trigger: following
+Effect: hospitals swiftly implemented strict infection control protocols to contain the spread
+-------------------------------------------------
+
+Sentence: Over 3000 years of domestication, silkworms have lost their flight skills.
+Cause: over 3000 years of domestication
+Trigger: nan
+Effect: silkworms have lost their flight skills
+Machine Generation: 
+1. Due to excessive deforestation, many species of birds have lost their natural habitats.
+2. as a result of continuous exposure to harmful chemicals, the river water has become polluted
+3. With advancements in technology, humans have become more reliant on smartphones for communication.
+4. The lack of exercise and poor diet has led to a rise in cases of obesity among children.
+5. Owing to negligent waste management practices, the ocean ecosystems have suffered extensive pollution.
+-------------------------------------------------
+
+Sentence: Upon hearing the news, she burst into tears.
+Cause: hearing the news
+Trigger: upon
+Effect: she burst into tears
+Machine Generation: 
+1. After smelling the delicious aroma, he couldn't resist taking a bite.
+Cause: smelling the delicious aroma
+Effect: he couldn't resist taking a bite
+
+2. When she saw the spider dangling from the ceiling, she let out a scream.
+Cause: seeing the spider dangling from the ceiling
+Effect: she let out a scream
+
+3. As the alarm blared loudly, they hurried out of the building.
+Cause: the alarm blaring loudly
+Effect: they hurried out of the building
+
+4. With the sun shining brightly, he felt a surge of happiness.
+Cause: the sun shining brightly
+Effect: he felt a surge of happiness
+
+5. Upon realizing she had won the lottery, she jumped for joy.
+Cause: realizing she had won the lottery
+Effect: she jumped for joy
+-------------------------------------------------
+
+Sentence: After I had a drink, I felt much better.
+Cause: I had a drink
+Trigger: after
+Effect: I felt better
+Machine Generation: 
+1. Because I exercised for an hour, my energy levels skyrocketed.
+2. Since I ate a balanced meal, my concentration improved significantly.
+3. Due to the heavy rain, the roads became flooded.
+4. As a result of studying diligently, I scored higher on the exam.
+5. When I meditated for a few minutes, my stress levels decreased.
+-------------------------------------------------
+
+Sentence: During the thunderstorm, we all hunkered down inside.
+Cause: the thunderstorm
+Trigger: during
+Effect: we all hunkered down inside
+Machine Generation: 
+1. In response to the blaring fire alarm, we all evacuated the building.
+Cause: the blaring fire alarm
+Effect: we all evacuated the building
+
+2. Seeing the dark clouds approaching, we quickly packed our belongings and sought shelter.
+Cause: the dark clouds approaching
+Effect: we quickly packed our belongings and sought shelter
+
+3. With the news of a tsunami warning, we immediately moved to higher ground.
+Cause: the news of a tsunami warning
+Effect: we immediately moved to higher ground
+
+4. Upon hearing the car approaching at a high speed, we swiftly pulled over to the side of the road.
+Cause: hearing the car approaching at a high speed
+Effect: we swiftly pulled over to the side of the road
+
+5. Due to the scorching heatwave, we all sought refuge indoors and turned on the air conditioning.
+Cause: the scorching heatwave
+Effect: we all sought refuge indoors and turned on the air conditioning
+-------------------------------------------------
+
+Sentence: While the family was on vacation, the burgler was able to come and go as he pleased.
+Cause: the familiy was on vacation
+Trigger: while
+Effect: the burgler was able to come and go as he pleased
+Machine Generation: 
+1. Due to the heavy rainfall, the playground was flooded with water.
+Cause: heavy rainfall
+Effect: the playground was flooded with water
+
+2. Because she studied diligently, she received the highest score in the class.
+Cause: studying diligently
+Effect: she received the highest score in the class
+
+3. When the power went out, the entire neighborhood was left in darkness.
+Cause: power outage
+Effect: the entire neighborhood was left in darkness
+
+4. As a result of the company's poor financial management, several employees were laid off.
+Cause: poor financial management
+Effect: several employees were laid off
+
+5. Since he missed his flight, he had to rearrange his travel plans.
+Cause: missing his flight
+Effect: he had to rearrange his travel plans
+-------------------------------------------------
+
+Sentence: While recovering, his batting average was significantly lower.
+Cause: recovering
+Trigger: while
+Effect: his batting average was significantly lower
+Machine Generation: 
+1. Due to the flu, her energy levels were greatly diminished.
+Cause: the flu
+Effect: her energy levels were greatly diminished
+
+2. With the increase in workload, their productivity levels dropped significantly.
+Cause: increase in workload
+Effect: productivity levels dropped significantly
+
+3. After the heavy rainstorm, the river's water level rose to dangerous heights.
+Cause: heavy rainstorm
+Effect: water level rose to dangerous heights
+
+4. As a result of the car accident, his confidence behind the wheel decreased tremendously.
+Cause: car accident
+Effect: confidence behind the wheel decreased tremendously
+
+5. Upon hearing the sad news, her mood instantly turned gloomy.
+Cause: hearing the sad news
+Effect: mood instantly turned gloomy
+-------------------------------------------------
+
+Sentence: Within two minutes of drinking the cocktail, Tom was dead.
+Cause: drinking the coctail
+Trigger: within
+Effect: Tom was dead
+Machine Generation: 
+1. After taking the prescribed medication, Sarah felt immediate relief from her headache.
+Cause: taking the prescribed medication
+Trigger: after
+Effect: Sarah felt immediate relief from her headache.
+
+2. Upon opening the window, a gentle breeze swept through the room, instantly cooling down the temperature.
+Cause: opening the window
+Trigger: upon
+Effect: a gentle breeze swept through the room, instantly cooling down the temperature.
+
+3. Once she started jogging every morning, Emily noticed a significant increase in her energy levels throughout the day.
+Cause: starting jogging every morning
+Trigger: once
+Effect: Emily noticed a significant increase in her energy levels throughout the day.
+
+4. When the alarm went off, John woke up abruptly and felt a rush of adrenaline due to the sudden noise.
+Cause: the alarm going off
+Trigger: when
+Effect: John woke up abruptly and felt a rush of adrenaline due to the sudden noise.
+
+5. As soon as she answered the phone call, Rachel burst into tears upon hearing the tragic news.
+Cause: answering the phone call
+Trigger: as soon as
+Effect: Rachel burst into tears upon hearing the tragic news.
+-------------------------------------------------
+
+Sentence: The investigation comes after government watchdogs raised red flags about classified material possibly being shared.
+Cause: goverment watchdogs raised red flags about classified material possibly being shared
+Trigger: after
+Effect: the invistigation
+Machine Generation: 
+1. The sales spiked after the company launched a new advertising campaign.
+2. The students' grades improved after their teacher started providing extra review sessions.
+3. The traffic congestion worsened after the construction of a new highway interchange.
+4. The company's profits plummeted after a major competitor entered the market.
+5. The crime rate decreased after the police implemented new community policing strategies.
+-------------------------------------------------
+
+Sentence: The plunge in stock prices followed a disappointing earnings report.
+Cause: a disappointing earnings report
+Trigger: followed
+Effect: the plunge in stock prices
+Machine Generation: 
+1. The increase in oil prices triggered a surge in inflation rates.
+Cause: increase in oil prices
+Trigger: triggered
+Effect: surge in inflation rates
+
+2. The implementation of strict regulations resulted in a decline in small business growth.
+Cause: implementation of strict regulations
+Trigger: resulted in
+Effect: decline in small business growth
+
+3. The lack of rainfall led to a severe drought in the region.
+Cause: lack of rainfall
+Trigger: led to
+Effect: severe drought in the region
+
+4. The introduction of new technology brought about an increase in productivity levels.
+Cause: introduction of new technology
+Trigger: brought about
+Effect: increase in productivity levels
+
+5. The shortage of skilled workers caused a delay in project completion.
+Cause: shortage of skilled workers
+Trigger: caused
+Effect: delay in project completion
+-------------------------------------------------
+
+Sentence: When they told me the price, I nearly fainted.
+Cause: they told me the price
+Trigger: when
+Effect: I nearly fainted
+Machine Generation: 
+1. When I received the news, my heart raced with excitement.
+Cause: I received the news
+Trigger: when
+Effect: my heart raced with excitement
+
+2. After eating a large meal, she felt incredibly sleepy.
+Cause: eating a large meal
+Trigger: after
+Effect: she felt incredibly sleepy
+
+3. As the storm approached, the trees started swaying violently.
+Cause: the storm approached
+Trigger: as
+Effect: the trees started swaying violently
+
+4. Once he saw the spider, he let out a high-pitched scream.
+Cause: he saw the spider
+Trigger: once
+Effect: he let out a high-pitched scream
+
+5. Upon receiving the award, she couldn't stop smiling with pride.
+Cause: receiving the award
+Trigger: upon
+Effect: she couldn't stop smiling with pride
+-------------------------------------------------
+
+Sentence: As long as you feed him, he'll be cooperative.
+Cause: you feed him
+Trigger: as long as
+Effect: he'll be cooperative
+Machine Generation: 
+1. When she receives praise, she becomes more motivated to excel.
+Cause: she receives praise
+Effect: she becomes more motivated to excel
+
+2. If it rains, the playground will be closed.
+Cause: it rains
+Effect: the playground will be closed
+
+3. Whenever he studies diligently, he achieves high grades.
+Cause: he studies diligently
+Effect: he achieves high grades
+
+4. When she exercises regularly, she feels more energized throughout the day.
+Cause: she exercises regularly
+Effect: she feels more energized throughout the day
+
+5. If he saves enough money, he will be able to go on vacation.
+Cause: he saves enough money
+Effect: he will be able to go on vacation
+-------------------------------------------------
+

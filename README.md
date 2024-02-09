@@ -6,4 +6,4 @@ https://aclanthology.org/W17-0812/ for a small experiment checking whether chatG
 
 The corpus is in https://github.com/duncanka/BECauSE.
 
-Our new examples are in Logical Causality https://docs.google.com/spreadsheets/d/1pc1E_OVN_5uq7_G4FpRXnr8NWD7wtl6_pRH_HrX6P80/edit#gid=0
+Our new examples (called syllogisms) are in Logical Causality https://docs.google.com/spreadsheets/d/1pc1E_OVN_5uq7_G4FpRXnr8NWD7wtl6_pRH_HrX6P80/edit#gid=0

@@ -1,4 +1,4 @@
-1 
+1 %%30 Jan 2024
 Sentence: This bill seeks to make regulation more efficient.
 Cause: bill
 Trigger: makes
@@ -151,7 +151,7 @@ Machine Generation:
    - Trigger: leads to
    - Effect: health problems later in life
 
-*************
+*************BAD!
 
 5. Sentence: Regular maintenance prevents breakdowns in machinery.
    - Cause: Regular maintenance
@@ -166,6 +166,8 @@ Cause: few members present
 Trigger: causes
 Effect: session adjourned
 Machine Generation: 
+
+*************trigger?
 1. The project was delayed because several key team members fell ill simultaneously.
    - Cause: Team members falling ill
    - Trigger: Led to
@@ -191,11 +193,12 @@ Machine Generation:
    - Trigger: Prompted
    - Effect: Introduction of extended reading program
 -------------------------------------------------
-
+7.
 Sentence: Transparency is essential to a fair judicial system.
 Cause: transparency
 Trigger: essential to
 Effect: fair judicial system
+
 Machine Generation: 
 1. Sentence: Regular exercise is crucial to maintaining good health.
    - Cause: regular exercise
@@ -222,14 +225,15 @@ Machine Generation:
    - Trigger: imperative for
    - Effect: career advancement
 -------------------------------------------------
-
+8. trigger????
 Sentence: Having looked at the older document, the faculty believed that a middle ground might be appropriate.
 Cause: looking at doc
-Trigger: nan
+Trigger: nan ???
 Effect: believe X
 Machine Generation: 
 1. After reviewing the customer feedback, the manager decided that changing the store layout could increase sales.
    - Cause: reviewing feedback
+   - Trigger: after?
    - Effect: decide to change layout
 
 2. Following the recent drought, the farmers realized that adopting more sustainable irrigation techniques was necessary.
@@ -248,11 +252,12 @@ Machine Generation:
    - Cause: noticing poor performance
    - Effect: recognize need for updates
 -------------------------------------------------
-
+9. 
 Sentence: We'll need a collaborative effort if we are to have a successful outcome.
 Cause: collaborative effort
-Trigger: nan
+Trigger: nan?
 Effect: successful outcome
+
 Machine Generation: 
 1. Adequate hydration is essential if we aim to maintain peak physical performance.
    - Cause: Adequate hydration
@@ -274,7 +279,7 @@ Machine Generation:
    - Cause: Community engagement
    - Effect: Successful implementation of the new policy
 -------------------------------------------------
-
+10.
 Sentence: His behavior drove me to drink heavily.
 Cause: behavior
 Trigger: nan
@@ -290,7 +295,7 @@ Machine Generation:
 
 3. Her harsh criticism led me to doubt my abilities.
    - Cause: harsh criticism
-   - Effect: doubt in abilities
+   - Effect: doubt  abilities
 
 4. The inspiring speech motivated them to start volunteering.
    - Cause: inspiring speech
@@ -300,11 +305,12 @@ Machine Generation:
    - Cause: lack of communication in the team
    - Effect: missed deadlines
 -------------------------------------------------
-
+11.
 Sentence: These harsh enforcement provisions will undoubtedly generate abuses and mistreatment.
 Cause: provisions
 Trigger: nan
-Effect: abuses
+Effect: abuses [and mistreatment]
+
 Machine Generation: 
 1. Excessive workload often leads to employee burnout.
    - Cause: Excessive workload
@@ -326,7 +332,7 @@ Machine Generation:
    - Cause: Overfishing
    - Effect: Threat to marine biodiversity
 -------------------------------------------------
-
+12.
 Sentence: My reason for leaving now is that I want to get home on time.
 Cause: I want to get home on time
 Trigger: reason for
@@ -357,11 +363,12 @@ Trigger: reason for
 Effect: taking an alternate route
 Sentence: My reason for taking an alternate route is that the road is under construction.
 -------------------------------------------------
-
+13.
 Sentence: Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.
 Cause: Perfect, hard work, learning from failure, loyalty, and persistence
 Trigger: nan
 Effect: success
+
 Machine Generation: 
 1. Sentence: Health is the result of regular exercise, a balanced diet, adequate sleep, stress management, and hydration.
    - Cause: Regular exercise, a balanced diet, adequate sleep, stress management, and hydration
@@ -383,7 +390,7 @@ Machine Generation:
    - Cause: Budgeting, saving, investing wisely, living within means, and continuous financial education
    - Effect: Financial stability
 -------------------------------------------------
-
+14. ****
 Sentence: For that reason, I look forward to hearing from today's witnesses.
 Cause: that reason
 Trigger: nan
@@ -414,11 +421,12 @@ Machine Generation:
    Effect: quickly rose to become the head of the department
    Trigger: Owing to
 -------------------------------------------------
-
+15. ******WRONG!
 Sentence: The speaker of Parliament read a roll call of the 275 elected members with a goal of shaming the no-shows.
 Cause: shaming no-shows
 Trigger: with a goal
-Effect: a roll call of the 275 elected memebers
+Effect: a roll call of the 275 elected members
+
 Machine Generation: 
 1. The teacher assigned extra homework with a goal of reinforcing the day's lessons.
    - Cause: reinforcing the day's lessons
@@ -445,11 +453,12 @@ Machine Generation:
    - Trigger: with a goal
    - Effect: launching a public health campaign
 -------------------------------------------------
-
+16.
 Sentence: The speaker of Parliament read a roll call of the 275 elected members with the objective of shaming the no-shows.
 Cause: shaming no-shows
 Trigger: with the objective
 Effect: a roll call of the 275 elected memebers
+wrong!!!
 Machine Generation: 
 1. The chef prepared a sumptuous five-course meal with the intention of impressing the food critics.
    - Cause: impressing food critics
@@ -476,7 +485,7 @@ Machine Generation:
    - Trigger: with the objective
    - Effect: introducing new tax incentives
 -------------------------------------------------
-
+17.
 Sentence: As the power increased, the rotor spun faster.
 Cause: power increased
 Trigger: nan
@@ -502,21 +511,22 @@ Machine Generation:
    - Cause: drought continued
    - Effect: crops started to fail
 -------------------------------------------------
-
+18.
 Sentence: The news compelled him to act.
 Cause: the news
 Trigger: compelled
 Effect: him to act
+
 Machine Generation: 
 1. Sentence: The storm warning made her cancel her plans.
    Cause: The storm warning
    Trigger: made
-   Effect: her to cancel her plans
+   Effect: her  cancel her plans
 
 2. Sentence: The smell of smoke alerted the neighbors.
    Cause: The smell of smoke
    Trigger: alerted
-   Effect: the neighbors
+   Effect: the neighbors??
 
 3. Sentence: His high fever prompted a visit to the doctor.
    Cause: His high fever
@@ -533,11 +543,12 @@ Machine Generation:
    Trigger: motivated
    Effect: her to apply for the scholarship
 -------------------------------------------------
-
+19.
 Sentence: Her financial problems obliged her to get another job.
 Cause: financial problems
 Trigger: obliged
 Effect: get another job
+
 Machine Generation: 
 1. Sentence: The drought compelled the farmers to irrigate their fields more frequently.
    - Cause: drought
@@ -564,7 +575,7 @@ Machine Generation:
    - Trigger: prompted
    - Effect: revise her manuscript
 -------------------------------------------------
-
+20.
 Sentence: In response to heavy criticism, the CDC rescinded its recommendations.
 Cause: heavy criticism
 Trigger: in response
@@ -595,7 +606,7 @@ Machine Generation:
    - Trigger: as a result of
    - Effect: scientists developed a new vaccine
 -------------------------------------------------
-
+21.
 Sentence: The debate has sharpened in the face of concerns about the safety of formaldehyde-treated flooring.
 Cause: concerns about the safety of formaldehyde-treated flooring
 Trigger: in the face of
@@ -626,7 +637,7 @@ Machine Generation:
    - Trigger: amidst
    - Effect: investment in renewable energy sources has escalated
 -------------------------------------------------
-
+22.
 Sentence: In view of this new evidence, we would like to reconsider our decision.
 Cause: this new evidence
 Trigger: in the view of
@@ -657,7 +668,7 @@ Machine Generation:
    - Trigger: Because of
    - Effect: expanding our production capacity
 -------------------------------------------------
-
+23. WRONG!!!!
 Sentence: The fox leapt in an attempt to catch the mouse.
 Cause: catch the mouse
 Trigger: an attempt to
@@ -688,7 +699,7 @@ Machine Generation:
    Effect: the chef carefully plated the dish  
    Sentence: The chef carefully plated the dish with the aim of impressing the judges.
 -------------------------------------------------
-
+24. WRONG!!
 Sentence: He kept his headphones on lest he disturb anyone.
 Cause: he disturb anyone
 Trigger: lest
@@ -719,7 +730,7 @@ Machine Generation:
    - Trigger: lest
    - Effect: wore gloves
 -------------------------------------------------
-
+25. WRONG!
 Sentence: I left early in the hopes of beating the traffic.
 Cause: the hopes of beating the traffic
 Trigger: in the hopes of
@@ -750,7 +761,7 @@ Machine Generation:
    Trigger: with the goal of
    Effect: planted trees around their house
 -------------------------------------------------
-
+26. wrong?
 Sentence: He tricked me into coming with.
 Cause: he tricked me
 Trigger: into
@@ -781,7 +792,7 @@ Machine Generation:
    Trigger: enticed
    Effect: me entering the bakery
 -------------------------------------------------
-
+27.
 Sentence: He died of a blocked artery.
 Cause: a blocked artery
 Trigger: of
@@ -812,15 +823,16 @@ Machine Generation:
    - Trigger: owing to
    - Effect: won the race
 -------------------------------------------------
-
+28.
 Sentence: He fled out of fear for his life.
 Cause: fear for his life
 Trigger: of
 Effect: he fled
+
 Machine Generation: 
 1. Sentence: She studied tirelessly out of a desire for knowledge.
    - Cause: desire for knowledge
-   - Trigger: of
+   - Trigger: out of
    - Effect: she studied tirelessly
 
 2. Sentence: They evacuated quickly in response to the emergency alert.
@@ -843,11 +855,12 @@ Machine Generation:
    - Trigger: in anticipation of
    - Effect: they celebrated wildly
 -------------------------------------------------
-
+29.
 Sentence: Once we started seeing results, we began to relax.
 Cause: seeing the results
 Trigger: once
 Effect: we began to relax
+
 Machine Generation: 
 1. **Cause:** the rain stopped
    **Trigger:** as soon as
@@ -874,7 +887,7 @@ Machine Generation:
    **Effect:** employee satisfaction increased significantly
    *Sentence:* Following the implementation of the new policy, employee satisfaction increased significantly.
 -------------------------------------------------
-
+30.
 Sentence: In the aftermath of the vote, the sense that the Union is fracturing cannot be ignored.
 Cause: the vote
 Trigger: in the aftermath of
@@ -905,7 +918,7 @@ Machine Generation:
    **Effect:** public awareness about climate change has heightened
    **Sentence:** Upon the release of the documentary, public awareness about climate change has heightened.
 -------------------------------------------------
-
+31.
 Sentence: In the wake of the storm, there were many broken tree limbs.
 Cause: the storm
 Trigger: in the wake of
@@ -936,7 +949,7 @@ Machine Generation:
    - Trigger: as a result of
    - Effect: employee productivity increased
 -------------------------------------------------
-
+32.
 Sentence: I jumped at the sound of the bell.
 Cause: the sound of the bell
 Trigger: at
@@ -967,7 +980,7 @@ Machine Generation:
    Trigger: at
    Effect: the baby laughed
 -------------------------------------------------
-
+33.
 Sentence: Following the storm, utility companies swept through looking for precarious tree limbs.
 Cause: the storm
 Trigger: following
@@ -998,7 +1011,7 @@ Machine Generation:
    - Trigger: after
    - Effect: city officials distributed bottled water to affected neighborhoods
 -------------------------------------------------
-
+34.
 Sentence: Over 3000 years of domestication, silkworms have lost their flight skills.
 Cause: over 3000 years of domestication
 Trigger: nan
@@ -1024,7 +1037,7 @@ Machine Generation:
    Cause: consistent overfishing  
    Effect: several fish species have become endangered
 -------------------------------------------------
-
+35.
 Sentence: Upon hearing the news, she burst into tears.
 Cause: hearing the news
 Trigger: upon
@@ -1055,7 +1068,7 @@ Machine Generation:
    - Trigger: because
    - Effect: he passed the exam easily
 -------------------------------------------------
-
+36.
 Sentence: After I had a drink, I felt much better.
 Cause: I had a drink
 Trigger: after
@@ -1086,7 +1099,7 @@ Machine Generation:
    Trigger: once
    Effect: Our productivity skyrocketed
 -------------------------------------------------
-
+37.
 Sentence: During the thunderstorm, we all hunkered down inside.
 Cause: the thunderstorm
 Trigger: during
@@ -1117,7 +1130,7 @@ Machine Generation:
    - Trigger: once
    - Effect: fans flooded the website to make purchases
 -------------------------------------------------
-
+38.
 Sentence: While the family was on vacation, the burgler was able to come and go as he pleased.
 Cause: the familiy was on vacation
 Trigger: while
@@ -1148,7 +1161,7 @@ Machine Generation:
    - Trigger: since
    - Effect: employees enjoyed a better work-life balance
 -------------------------------------------------
-
+39.
 Sentence: While recovering, his batting average was significantly lower.
 Cause: recovering
 Trigger: while
@@ -1164,10 +1177,12 @@ Machine Generation:
    - Trigger: due to
    - Effect: school was canceled for the day
 
+*******************WRONG!
 3. Sentence: When the market opened, stock prices plummeted.
    - Cause: the market opened
    - Trigger: when
    - Effect: stock prices plummeted
+*********************
 
 4. Sentence: Because of the power outage, the entire neighborhood was in darkness.
    - Cause: the power outage
@@ -1179,16 +1194,20 @@ Machine Generation:
    - Trigger: once
    - Effect: international trade increased significantly
 -------------------------------------------------
-
+40.
 Sentence: Within two minutes of drinking the cocktail, Tom was dead.
-Cause: drinking the coctail
+Cause: drinking the cocktail
 Trigger: within
 Effect: Tom was dead
+
 Machine Generation: 
+
+***************WRONG!
 1. Sentence: Moments after stepping outside, she was soaked by the rain.
    Cause: stepping outside
    Trigger: moments after
    Effect: she was soaked by the rain
+***********************
 
 2. Sentence: Immediately upon hearing the news, Sarah broke into tears.
    Cause: hearing the news
@@ -1210,11 +1229,12 @@ Machine Generation:
    Trigger: seconds after
    Effect: he screamed in pain
 -------------------------------------------------
-
+41. WRONG!!!
 Sentence: The investigation comes after government watchdogs raised red flags about classified material possibly being shared.
 Cause: goverment watchdogs raised red flags about classified material possibly being shared
 Trigger: after
-Effect: the invistigation
+Effect: the investigation
+
 Machine Generation: 
 1. Sentence: The park was closed to the public after environmentalists reported high levels of pollution in the lake.
    - Cause: environmentalists reported high levels of pollution in the lake
@@ -1241,11 +1261,12 @@ Machine Generation:
    - Trigger: after
    - Effect: the company improved its customer service
 -------------------------------------------------
-
+42.
 Sentence: The plunge in stock prices followed a disappointing earnings report.
 Cause: a disappointing earnings report
 Trigger: followed
 Effect: the plunge in stock prices
+
 Machine Generation: 
 1. Sentence: The closure of the factory led to mass layoffs in the town.
    Cause: The closure of the factory
@@ -1272,21 +1293,24 @@ Machine Generation:
    Trigger: has led to
    Effect: early snowfall in the mountains
 -------------------------------------------------
-
+43.
 Sentence: When they told me the price, I nearly fainted.
 Cause: they told me the price
 Trigger: when
 Effect: I nearly fainted
+
 Machine Generation: 
 1. Sentence: As soon as I saw the spider, I screamed.
    - Cause: I saw the spider
    - Trigger: as soon as
    - Effect: I screamed
 
+************WRONG!
 2. Sentence: Once the movie started, I realized I had seen it before.
    - Cause: the movie started
    - Trigger: once
    - Effect: I realized I had seen it before
+*******************
 
 3. Sentence: Because she missed the bus, she was late to the interview.
    - Cause: she missed the bus
@@ -1298,16 +1322,18 @@ Machine Generation:
    - Trigger: whenever
    - Effect: he feels nostalgic
 
+********WRONG?
 5. Sentence: After reading the book, she felt inspired to write her own.
    - Cause: reading the book
    - Trigger: after
    - Effect: she felt inspired to write her own
 -------------------------------------------------
-
+44.
 Sentence: As long as you feed him, he'll be cooperative.
 Cause: you feed him
 Trigger: as long as
 Effect: he'll be cooperative
+
 Machine Generation: 
 1. If you keep the room tidy, she will be more productive.
    - Cause: you keep the room tidy

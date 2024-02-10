@@ -1,6 +1,6 @@
 1 %%30 Jan 2024
 Sentence: This bill seeks to make regulation more efficient.
-Cause: bill
+Cause: [existence of a] bill
 Trigger: makes
 Effect: regulation more efficient.
 Machine Generation: 
@@ -66,6 +66,7 @@ Sentence: The presence of my father gave [me] some peace of mind.
 Cause: presence of father
 Trigger: gives
 Effect: peace of mind
+
 Machine Generation: 
 1. Sentence: The severity of the storm caused widespread panic.
    Cause: severity of the storm
@@ -98,6 +99,7 @@ Sentence: Given that you can't make it, we'll have to postpone.
 Cause: you can't make it
 Trigger: Given [that]
 Effect: postpone it
+
 Machine Generation: 
 1. Since the weather forecast predicts heavy rain, we will have to cancel the picnic.
    - Cause: weather forecast predicts heavy rain
@@ -130,6 +132,7 @@ Sentence: Something that simple causes problems in subprime.
 Cause: simple thing
 Trigger: causes
 Effect: problems in subprime
+
 Machine Generation: 
 1. Sentence: High interest rates lead to decreased consumer spending.
    - Cause: High interest rates
@@ -151,7 +154,7 @@ Machine Generation:
    - Trigger: leads to
    - Effect: health problems later in life
 
-*************BAD!
+*************WRONG!
 
 5. Sentence: Regular maintenance prevents breakdowns in machinery.
    - Cause: Regular maintenance
@@ -161,13 +164,13 @@ Machine Generation:
 -------------------------------------------------
 
 6. 
-Sentence: Nearly every session since November has been adjourned because as few as 65 members made it to work.
+Sentence: Nearly every session since November has been adjourned *because* as few as 65 members made it to work.
 Cause: few members present
-Trigger: causes
+Trigger: causes??
 Effect: session adjourned
 Machine Generation: 
 
-*************trigger?
+*************wrong triggers?
 1. The project was delayed because several key team members fell ill simultaneously.
    - Cause: Team members falling ill
    - Trigger: Led to
@@ -255,7 +258,7 @@ Machine Generation:
 9. 
 Sentence: We'll need a collaborative effort if we are to have a successful outcome.
 Cause: collaborative effort
-Trigger: nan?
+Trigger: nan? IF?
 Effect: successful outcome
 
 Machine Generation: 

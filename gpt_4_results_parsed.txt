@@ -170,7 +170,7 @@ Trigger: causes??
 Effect: session adjourned
 Machine Generation: 
 
-*************wrong triggers?
+*************BAD triggers?
 1. The project was delayed because several key team members fell ill simultaneously.
    - Cause: Team members falling ill
    - Trigger: Led to

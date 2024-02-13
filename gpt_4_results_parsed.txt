@@ -94,7 +94,7 @@ Machine Generation:
    Effect: lowered operational costs
 -------------------------------------------------
 
-4. 
+4. PP
 Sentence: Given that you can't make it, we'll have to postpone.
 Cause: you can't make it
 Trigger: Given [that]
@@ -163,7 +163,7 @@ Machine Generation:
 **************
 -------------------------------------------------
 
-6. 
+6. PP
 Sentence: Nearly every session since November has been adjourned *because* as few as 65 members made it to work.
 Cause: few members present
 Trigger: causes??
@@ -196,7 +196,7 @@ Machine Generation:
    - Trigger: Prompted
    - Effect: Introduction of extended reading program
 -------------------------------------------------
-7.
+7. ADJ
 Sentence: Transparency is essential to a fair judicial system.
 Cause: transparency
 Trigger: essential to
